@@ -1,4 +1,4 @@
-#include "types.c"
+#include "types.h"
 
 int kern_entry()
 {
